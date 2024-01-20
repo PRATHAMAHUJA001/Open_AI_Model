@@ -13,8 +13,6 @@ Installation
 
 To install the required libraries, run:
 
-bash
-Copy code
 pip install langchain PyPDF2 python-dotenv streamlit faiss-cpu altair tiktoken
 
 Create a file named .env in the project root and add your Hugging Face API key:
@@ -23,6 +21,9 @@ Copy code
 HUGGINGFACE_API_KEY=your-api-key
 You can obtain the API key by signing up on the Hugging Face website.
 Usage
+
+Note: By default I have used my own tokens so you can change it in the .env file itself
+
 
 Run the Streamlit app:
 
