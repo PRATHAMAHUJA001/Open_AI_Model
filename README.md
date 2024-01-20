@@ -22,7 +22,7 @@ HUGGINGFACE_API_KEY=your-api-key
 You can obtain the API key by signing up on the Hugging Face website.
 Usage
 
-Note: By default I have used my own tokens so you can change it in the .env file itself
+Note: By default I have used my own tokens which you can change it in the .env file itself
 
 
 Run the Streamlit app:
